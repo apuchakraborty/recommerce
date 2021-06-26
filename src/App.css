@@ -1,0 +1,15 @@
+.myslide{
+  object-fit: contain;
+    width: 100%;
+}
+
+.swiper-slide{
+  overflow: hidden;
+}
+
+.swiper-slide{
+  background-color: lightgrey;
+  border-radius: 10px;
+}
+
+
