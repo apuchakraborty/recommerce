@@ -2,7 +2,7 @@
 
 ### Simple Ecommerce project using react & commerce
 
-![alt text](./recommerce.png "Title")
+![alt text](./recommerce.PNG "Title")
 
 ```
 cd dir
